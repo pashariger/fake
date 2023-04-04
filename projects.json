@@ -1,0 +1,18 @@
+[{
+   "id":1,
+   "name":"Project 1",
+   "description":"This is project 1",
+   "imageUrl":"https://example.com/project1.jpg"
+},
+{
+   "id":2,
+   "name":"Project 2",
+   "description":"This is project 2",
+   "imageUrl":"https://example.com/project2.jpg"
+},
+{
+   "id":3,
+   "name":"Project 3",
+   "description":"This is project 3",
+   "imageUrl":"https://example.com/project3.jpg"
+}]
