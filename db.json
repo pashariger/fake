@@ -1,14 +1,14 @@
 {"projects":[
-  {
-    id: 1,
-    name: "xPlan Web App",
-    description: "Dashboard app built in React",
-    status: "In Progress",
-  },
-  {
-    id: 2,
-    name: "xPlan Zitadel API",
-    description: "API for xPlan Web App",
-    status: "Complete",
-  },
+   {
+      "id":1,
+      "name":"xPlan Web App",
+      "description":"Dashboard app built in React",
+      "status":"In Progress"
+   },
+   {
+      "id":2,
+      "name":"xPlan Zitadel API",
+      "description":"API for xPlan Web App",
+      "status":"Complete"
+   }
 ]}
